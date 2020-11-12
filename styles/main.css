@@ -1,0 +1,48 @@
+header {
+    display: flex;
+}
+
+.logo {
+    height: 8em;
+}
+
+.content {
+    display: flex;
+}
+
+.fishList {
+    border: 3px dotted blue;
+}
+
+.quotes {
+    border: 3 px dotted black;
+    background-color: lightblue;
+}
+
+.locations {
+    border: 3 px dotted navy;
+}
+
+.tankTips {
+    border: 3 px dotted dodgerblue;
+}
+
+.container--right {
+    flex: 1
+}
+
+.fish__image {
+    height: 8em;
+}
+
+.location__image {
+    height: 8em;
+}
+
+.container--left article {
+    margin-bottom: 25px;
+}
+
+main {
+    width: 800px;
+}
